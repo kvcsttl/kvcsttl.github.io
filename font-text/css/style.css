@@ -1,0 +1,23 @@
+#doboz{
+    text-align: center;
+    margin: 15px;
+    padding: 25px;
+    background-color: darksalmon;
+    
+}
+#cim{
+    text-align: center;
+    background-color: crimson;
+    color: white;
+    padding: 15px;
+}
+h4{
+    font-style: italic;
+}
+.row{
+    border-bottom: solid 2px crimson;
+    align-items: center;
+}
+#ur{
+    border: none;
+}
